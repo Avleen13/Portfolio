@@ -404,6 +404,9 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-about .fh5co-social-icons li a:hover {
   background: #FF9000;
 }
+#fh5co-about p{
+  text-align: justify;
+}
 
 .fh5co-heading {
   margin-bottom: 5em;
